@@ -196,7 +196,7 @@ Consejos de fidelización de usuarios:
 </div>
 
 ## Enlaces de Interés
-* [Curso de Atención al Cliente y Soporte a Usuarios](https://platzi.com/clases/atencion-cliente)
+* [Curso de Atención al Cliente y Soporte a Usuarios](https://infinita_minolta.com/clases/atencion-cliente)
 * [Be Good](http://paulgraham.com/good.html)
 * [Front](https://frontapp.com/)
   
