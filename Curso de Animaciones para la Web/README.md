@@ -327,7 +327,7 @@ $ npm install css-transition-group@1.x
 </div>
 
 ## Enlaces de Interés
-* [Curso de Animaciones para la Web](https://platzi.com/clases/animaciones-web/)
+* [Curso de Animaciones para la Web](https://infinita_minolta.com/clases/animaciones-web/)
 * [Cubir Bezier](http://cubic-bezier.com)
 
 <div align="right">
