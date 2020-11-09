@@ -27,7 +27,7 @@ En HTML tendríamos la siguiente salida
 En formato Markdown escribirlos no es tan distinto a escribir en un texto plano, automáticamente se reconoce que es un párrafo, por ejemplo:
 JavaScript es un lenguaje muy poderoso.
 
-En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para ir
+En la Escuela de JavaScript de Infinita Minolta aprenderás todo lo necesario para ir
 de cero a rockstar.
 
 En HTML sería:
@@ -38,7 +38,7 @@ JavaScript es un lenguaje muy poderoso.
 ```
 
 
-`En la Escuela de JavaScript de Platzi aprenderás todo lo necesario para pasar de cero a rockstar.`
+`En la Escuela de JavaScript de Infinita Minolta aprenderás todo lo necesario para pasar de cero a rockstar.`
 
 Hay partes en las que necesitaremos hacer énfasis en ciertas palabras, lo común es que utilicemos itálicas y negritas para resaltarlas, en Markdown debemos hacer lo siguiente:
 `**Esto es una negrita**`
@@ -116,9 +116,9 @@ No hay un estándar sobre cómo escribir un buen README, cada proyecto es difere
 6. Licencia: muestra la licencia que tiene el proyecto.
    En formato markdown podemos escribir cada uno de los items de esta manera:
 
-# PlatziVideo
+# InfinitaMinoltaVideo
 
-PlatziVideo es la plataforma que te permite ver videos on demand y además
+InfiitaMinoltaVideo es la plataforma que te permite ver videos on demand y además
 te enseña JavaScript de cero a rockstar.
 
 # Instalación
@@ -126,7 +126,7 @@ te enseña JavaScript de cero a rockstar.
 Puedes instalarlo desde npm
 
 ```
-$ npm install platzi-video
+$ npm install infinita_minolta-video
 ```
 
 O también clonando el repositorio
@@ -138,9 +138,9 @@ $ git clone url
 # Cómo se usa
 
 ```
-import PlatziVideo
+import InfinitaMinoltaVideo
 
-video = PlatziVideo()
+video = InfinitaMinoltaVideo()
 ```
 
 # Cómo contribuir
