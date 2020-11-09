@@ -604,7 +604,7 @@ Cursos destacados
 </a>
 </div>
 <div class="copyright-container udlite-text-xs">
-&copy; 2020 Udemy, Inc.
+&copy; 2020 Infinita Minolta, Inc.
 </div>
 </div>
 </div>
