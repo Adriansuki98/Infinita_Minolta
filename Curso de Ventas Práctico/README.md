@@ -1,4 +1,4 @@
-# Curso de Ventas Práctico para el adriancito y la wea wena :3<!-- omit in toc -->
+# Curso de Ventas Práctico<!-- omit in toc -->
 
 ## Tabla de Contenido<!-- omit in toc -->
 - [Perfiles del Vendedor](#perfiles-del-vendedor)
