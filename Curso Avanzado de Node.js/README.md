@@ -14,7 +14,7 @@
   - [Instalar Visual Studio Code](#instalar-visual-studio-code)
   - [Instalar Ansible](#instalar-ansible)
   - [Instalar Vagrant](#instalar-vagrant)
-- [Arquitectura de Platziverse](#arquitectura-de-platziverse)
+- [Arquitectura de InfinitaMinoltaverse](#arquitectura-de-platziverse)
 - [Estructura de un Módulo de Node](#estructura-de-un-módulo-de-node)
 - [Implementación de Modelos de BD](#implementación-de-modelos-de-bd)
   - [Relaciones entre Modelos de Datos](#relaciones-entre-modelos-de-datos)
@@ -332,9 +332,9 @@ const Sequelize = require('sequelize')
 
 async function setup () {
   const config = {
-    database: process.env.DB_NAME || 'platziverse',
-    username: process.env.DB_USER || 'platzi',
-    password: process.env.DB_PASS || 'platzi',
+    database: process.env.DB_NAME || 'infinitaminoltaverse',
+    username: process.env.DB_USER || 'infinitaminolta',
+    password: process.env.DB_PASS || 'infinitaminolta',
     host: process.env.DB_HOST || 'localhost',
     dialect: 'postgres',
     logging: s => debug(s),
@@ -524,8 +524,8 @@ $ npm i -D sinon
 $ npm i -D proxyquire
 
 ## Enlaces de Interés
-* [Curso Avanzado de Node.js](https://platzi.com/clases/nodejs/)
-* [Github: Platziverse](https://github.com/platzi/platziverse)
+* [Curso Avanzado de Node.js](https://infinita_minolta.com/clases/nodejs/)
+* [Github: Platziverse](https://github.com/infinita_minolta/infinitaminoltaverse)
 * [Node.js](https://nodejs.org/en/)
 * [NVM](https://github.com/creationix/nvm)
 * [NVM Windows](https://github.com/coreybutler/nvm-windows)
